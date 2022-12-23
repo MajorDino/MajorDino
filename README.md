@@ -16,7 +16,7 @@
   <img align="center" alt="Dino-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg">
   <img align="center" alt="Dino-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Dino-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Dino-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/691463247747874837/902925250122092574/Prototipo.png">
+  <img align="right" alt="Dino-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/532391249697701899/1055642088462626867/t-rex-logo-alfa.png">
 </div>
 
   ##
